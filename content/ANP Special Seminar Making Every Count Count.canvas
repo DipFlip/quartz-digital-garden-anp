@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Title slide**\nMaking Every Count Count in Urban Radiation Monitoring and Autonomous Source Search","id":"5f2ae6d7462e8c1c","x":-660,"y":-208,"width":430,"height":172},
+		{"type":"text","text":"CCD projects\n- [[MLCCD (Machine Learning methods for Charge Coupled Devices)]]\n- [[QuIPS (Quantum Invisible Particle Sensor)]]","id":"e52266c9a0b9ec7b","x":220,"y":-237,"width":360,"height":230},
+		{"type":"text","text":"Overview\n- Other projects\n- Urban Radiation Monitoring\n- Autonomous Source Search","id":"1e017b9dc51869f0","x":-140,"y":-230,"width":250,"height":216},
+		{"type":"text","text":"Overview of the challenges in gamma-ray detection","id":"3722b54567611c54","x":660,"y":-242,"width":340,"height":240},
+		{"id":"39635d79ab1307cb","type":"text","text":"My approach to investigating networked detectors ","x":1135,"y":13,"width":250,"height":60},
+		{"id":"7fd9215adb6f04c8","type":"text","text":"Slide showing uber cars\n\n- I'm an avid bike enthusiast and it hurts me a little how long I've spent looking at car data, but it is very interesting and, it turns out, also useful for the detector network\n- Of all these here, which do you think it's best for a network of detectors to see? The best for us would be something like a purple limousine because then the network would only have to look for matching encounters of those. A bad guy in this simulation would to best with driving a black Toyota.","x":1540,"y":-280,"width":313,"height":539},
+		{"id":"8afb9649a2393fb8","type":"text","text":"Slide showing map with three detectors\n\n- What would happen if we added a fourth detector?","x":1436,"y":411,"width":324,"height":269},
+		{"id":"3c633b8c828d36e9","type":"text","text":"Nice slide idea\n\n- Attempt to summarize gamma-ray imaging techniques","x":1033,"y":-670,"width":507,"height":270},
+		{"id":"ca5467779a2fc82c","type":"text","text":"**Remember**\nAsk Matthew for slide on GNNs\nAsk Jaewon for slide on GPP","x":1033,"y":348,"width":347,"height":198},
+		{"id":"3367b86a8c5db913","type":"text","text":"RT-X robot model by Google DeepMind, Oct 3\nhttps://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types\n\nUse data from many different labs and see if he multi-purpose robot can outperform specialist robots.","x":1880,"y":350,"width":440,"height":123},
+		{"id":"672f9f25021027b6","type":"text","text":"About me\n\nAll this to say\nI come from a nuclear physics background, hands-on detector experience,\nI make things, I simulate things, I code, and I like to put a lot of pictures on a single slide","x":27,"y":-620,"width":373,"height":360},
+		{"id":"1076de444a32bced","type":"file","file":"651bf8dc08ece07a453c6cdb_Fig5_RT-X 1.gif","x":1900,"y":520,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"17f2d96baca62e05","fromNode":"5f2ae6d7462e8c1c","fromSide":"right","toNode":"1e017b9dc51869f0","toSide":"left"},
+		{"id":"d6e8ff0a43243bdd","fromNode":"1e017b9dc51869f0","fromSide":"right","toNode":"e52266c9a0b9ec7b","toSide":"left"},
+		{"id":"d9bc09ddb5b543d1","fromNode":"e52266c9a0b9ec7b","fromSide":"right","toNode":"3722b54567611c54","toSide":"left"},
+		{"id":"ebfc6e6061bdc77d","fromNode":"3722b54567611c54","fromSide":"right","toNode":"39635d79ab1307cb","toSide":"left"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"787c2a577942f1bd","x":100,"y":-476,"width":250,"height":60,"type":"text","text":"Story 2\nGames and robots"},
+		{"id":"1f5046feef6af6d8","x":-680,"y":-249,"width":280,"height":236,"type":"text","text":"Tell my story as in interview presentation\n\n- Take build slides from previous Internship presentation"},
+		{"id":"b6d459bfe697ed7f","x":-560,"y":-476,"width":250,"height":60,"type":"text","text":"Story 1\nFrom hobby to research"},
+		{"id":"eb6205c2e7ce9ba8","x":-150,"y":-262,"width":250,"height":249,"type":"text","text":"Learned about electronics from modding Game Boys, chipping Wiis, Xbox and so on. Nowadays very comfortable with a soldering iron."},
+		{"id":"750b66fb80fa63a8","x":200,"y":-262,"width":336,"height":189,"type":"text","text":"I like playing games, and as you saw in the previous story, I also like electronics and building things. Robotics here at the lab is then a good mix for me."}
+	],
+	"edges":[
+		{"id":"8c7250fa6ef9aedc","fromNode":"787c2a577942f1bd","fromSide":"bottom","toNode":"750b66fb80fa63a8","toSide":"top"},
+		{"id":"676ad01814b9f74d","fromNode":"b6d459bfe697ed7f","fromSide":"bottom","toNode":"1f5046feef6af6d8","toSide":"top"},
+		{"id":"6a1ea4256f13d7e7","fromNode":"787c2a577942f1bd","fromSide":"bottom","toNode":"eb6205c2e7ce9ba8","toSide":"top"}
+	]
+}
